@@ -5,3 +5,4 @@
 | № | Проект    | Задачи проекта   | Инструменты  |Статус проекта  |
 |---|-----------|------------------|--------------|-----------------|
 |01.|[Исследование поведения покупателей на распродаже Black Friday.](https://github.com/alexkandinsky/pet_projects/blob/main/black_friday_project.ipynb)|Провести преобработку данных, исследовательский анализ и сформировать общий вывод на основе полученных данных.|`Python`, `Pandas`, `Matplotlib`, `Numpy`, `Seaborn`|Завершен.|
+|02.|[Исследование поведения покупателей на распродаже Black Friday.](https://github.com/alexkandinsky/pet_projects/blob/main/black_friday_project.ipynb)|Провести преобработку данных, исследовательский анализ и сформировать общий вывод на основе полученных данных.|`Python`, `Pandas`, `Matplotlib`, `Numpy`, `Seaborn`|Завершен.|
