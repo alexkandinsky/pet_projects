@@ -10,3 +10,5 @@
 |04.|[Исследование объема продаж видеоигр.](https://github.com/alexkandinsky/pet_projects/blob/main/video_game_sales_project.ipynb)|`EDA`, `Data Visualisation`|`Python`, `Pandas`, `Matplotlib`, `Numpy`, `Seaborn`|Завершен.|
 |05.|[Исследование популярности приложений Google Play Market.](https://github.com/alexkandinsky/pet_projects/blob/main/googleplay_store_project.ipynb)|`EDA`, `Data Visualisation`|`Python`, `Pandas`, `Matplotlib`, `Numpy`, `Seaborn`|Завершен.|
 |06.|[Исследование популярности фильмов и шоу Netflix](https://github.com/alexkandinsky/pet_projects/blob/main/netflix_titles_project.ipynb)|`EDA`, `Data Visualisation`|`Python`, `Pandas`, `Matplotlib`, `Numpy`, `Seaborn`|Завершен.|
+|07.|[Тестовые задания ДКД МО ДЗМ на позицию Аналитика](https://github.com/alexkandinsky/pet_projects/blob/main/test_task_ДКД_МО_ДЗМ.ipynb)|`Согласно ТЗ в файле`|`Python`, `Pandas`, `Matplotlib`, `Numpy`|Завершен.|
+
